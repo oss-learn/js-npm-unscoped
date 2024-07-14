@@ -1,0 +1,25 @@
+{
+  "name": "oss-learn",
+  "version": "1.0.0",
+  "description": "JavaScript package with npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warn: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oss-learn/js-npm-unscoped.git"
+  },
+  "keywords": [
+    "training"
+  ],
+  "author": "OSS Learn master",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oss-learn/js-npm-unscoped/issues"
+  },
+  "homepage": "https://github.com/oss-learn/js-npm-unscoped#readme",
+  "dependencies": {
+    "odd": "^0.1.0"
+  }
+}
